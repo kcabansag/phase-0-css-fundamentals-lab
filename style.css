@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin:auto;
+  width: fit-content;
+}
+
+nav {
+  margin: auto;
+  width: fit-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+
+
+figure {
+margin: auto;
+width: fit-content;
+}
